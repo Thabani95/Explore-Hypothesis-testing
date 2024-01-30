@@ -1,2 +1,2 @@
 # Explore-Hypothesis-testing
-In this activity i will be leveraging AQI data to help an environmental think tank called Repair Our Air (ROA). ROA is formulating policy recommendations to improve the air quality in America, using the Environmental Protection Agency's Air Quality Index (AQI) to guide their decision making.
+In this activity, I will be leveraging AQI data to help an environmental think tank called Repair Our Air (ROA). ROA is formulating policy recommendations to improve the air quality in America, using the Environmental Protection Agency's Air Quality Index (AQI) to guide their decision-making. An AQI value close to 0 signals "little to no" public health concern, while higher values are associated with increased risk to public health.
